@@ -1,7 +1,7 @@
 # assignment
-git init\n
-git add README.md\n
-git commit -m "first commit"\n
-git branch -M main\n
-git remote add origin git@github.com:s202255583/assignment.git\n
-git push -u origin main\n
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:s202255583/assignment.git
+git push -u origin main
